@@ -1,0 +1,40 @@
+  {
+  "project_info": {
+    "project_number": "45755501071",
+    "firebase_url": "https://fir-auth-16b63.firebaseio.com",
+    "project_id": "fir-auth-16b63",
+    "storage_bucket": "fir-auth-16b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45755501071:android:4e40f6f6d62769a894b17a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45755501071-83phd6r1qa4c3bub3up7q646edtaii1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhP1KKLLDAr0OeZ82M4wWSVROL-Mf9aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45755501071-83phd6r1qa4c3bub3up7q646edtaii1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
