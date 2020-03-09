@@ -53,11 +53,6 @@ class MainPage extends StatelessWidget {
       },
   ),     
            ),
-    
-
-    
-
-    
     );
 
     Widget  _floatPic() {
